@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "node": {
+                "id": 35247,
+                "title": "Owarimonogatari 2nd Season",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/6/87322.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/6/87322l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 36275,
+                "title": "Natsume Yuujinchou Roku Specials",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/10/87615.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/10/87615l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 34599,
+                "title": "Made in Abyss",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/6/86733.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/6/86733l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 21,
+                "title": "One Piece",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/6/73245.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/6/73245l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 35932,
+                "title": "Yume ga Sameru made",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/6/88152.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/6/88152l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 37859,
+                "title": "Free! Movie 2: Timeless Medley - Yakusoku: Character Butai Aisatsu",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/1961/92778.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/1961/92778l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 36473,
+                "title": "Love Live! Sunshine!! Recap",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/6/89900.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/6/89900l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 33240,
+                "title": "Koneko no Chi: Ponponra Daibouken",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/12/82679.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/12/82679l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 35567,
+                "title": "Gundam Build Fighters: Battlogue",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/9/87160.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/9/87160l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 34787,
+                "title": "Idol Time PriPara",
+                "main_picture": {
+                    "medium": "https://api-cdn.myanimelist.net/images/anime/3/86056.jpg",
+                    "large": "https://api-cdn.myanimelist.net/images/anime/3/86056l.jpg"
+                }
+            }
+        }
+    ]
+}
